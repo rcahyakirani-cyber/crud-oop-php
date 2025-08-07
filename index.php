@@ -18,5 +18,6 @@ $user->create([
     'username' => 'ray',
     'paswword' => 'ray123'
 ]);
+ echo"rayy";
 
 ?>
